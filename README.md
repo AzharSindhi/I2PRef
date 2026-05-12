@@ -4,7 +4,9 @@
 
 A deep learning framework for image-guided point cloud completion and refinement. Given a partial point cloud and a corresponding RGB image, the model produces a dense, complete point cloud using an adaptive transformer architecture conditioned on image features.
 
+<div align="center">
 <img src="assets/comparison.jpg" alt="Qualitative comparison" width="720"/>
+</div>
 
 ## Requirements
 
