@@ -139,4 +139,5 @@ Model and training hyperparameters are set in `pointnet2/exp_configs/ViPC.json`.
 This codebase builds upon the following work:
 
 - **ViPC** — View-guided Point Cloud Completion dataset and baseline: [https://github.com/Hydrogenion/ViPC]
+- **PDR** — A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion: [https://github.com/zhaoyanglyu/point_diffusion_refinement]
 
