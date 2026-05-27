@@ -1,6 +1,6 @@
 # I2PRef: Image-Driven Point Completion with Iterative Refinement
 
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX) -->
+[![arXiv](https://img.shields.io/badge/arXiv-2605.26914-b31b1b.svg)](https://arxiv.org/abs/2605.26914)
 
 A deep learning framework for image-guided point cloud completion and refinement. Given a partial point cloud and a corresponding RGB image, the model produces a dense, complete point cloud using an adaptive transformer architecture conditioned on image features.
 
