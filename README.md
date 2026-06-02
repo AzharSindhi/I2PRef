@@ -135,6 +135,18 @@ Model and training hyperparameters are set in `pointnet2/exp_configs/ViPC.json`.
 }
 ```
 
+## Citation
+
+If you find our work useful in your research, please consider citing:
+
+```bibtex
+@inproceedings{hussian2026i2pref,
+  author    = {Azhar Hussian and Marina Ritthaler and Andr{\'e} Kaup and Vasileios Belagiannis},
+  title     = {I2PRef: Image-Driven Point Completion with Iterative Refinement},
+  booktitle = {Proceedings of the 34th European Signal Processing Conference},
+  year      = {2026},
+}
+```
 
 ## Acknowledgements
 
